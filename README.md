@@ -125,4 +125,6 @@ Verify the .onion links.
 Finding active markets needs diligence. Use our guide. Remember that engaging in these markets may be illegal in your jurisdiction.
 Plase contribute and add stars to this repo.
 
-Update:  04 July 2025 Link is now accessible
+
+
+Update:  07.07.2025 11:44
